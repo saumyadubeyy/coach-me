@@ -6,10 +6,7 @@ module.exports = {
   ],
   theme: {
     screens: {},
-    colors: {},
-    fontFamily: {
-      sans: ['"Work Sans"', 'sans-serif'],
-    },
+    // colors: {},
     fontSize: {},
     extend: {},
   },
