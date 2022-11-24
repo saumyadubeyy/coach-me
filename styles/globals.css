@@ -9,3 +9,30 @@ body {
   font-family: 'Poppins', sans-serif;
   width: 100%;
 }
+
+.bg1 {
+  background: linear-gradient(130.33deg, rgba(138, 220, 255, 0.4425) 1.21%, rgba(71, 108, 255, 0.51471) 52.4%, rgba(5, 0, 255, 0.585) 102.24%), linear-gradient(0deg, #C2D9FD, #C2D9FD);
+}
+
+.bg2 {
+  background: linear-gradient(130.33deg, rgba(255, 124, 203, 0.4425) 1.21%, rgba(191, 0, 0, 0.5625) 102.24%);
+}
+
+.bg3 {
+  background: linear-gradient(300deg, rgba(201, 252, 231, 0.56) 13.4%, #C9F5FC 86.6%);
+}
+
+.bg4 {
+  background: linear-gradient(303.72deg, rgba(252, 201, 201, 0.53) 14.02%, #C9D2FC 89.96%);
+}
+
+.modal::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.modal {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
